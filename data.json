@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "img": "image1.jpg",
+      "title": "Clean Water Initiative",
+      "category": "Health",
+      "bg_color": "#78C2AD",
+      "title_color": "#FFFFFF",
+      "category_color": "#FF7F50",
+      "price": 25,
+      "description": "Provide clean and safe drinking water to communities in need."
+    },
+    {
+      "id": 2,
+      "img": "image2.jpg",
+      "title": "Education for All",
+      "category": "Education",
+      "bg_color": "#F9EBB2",
+      "title_color": "#333333",
+      "category_color": "#87CEEB",
+      "price": 30,
+      "description": "Support education programs to ensure quality learning opportunities for every child."
+    },
+    {
+      "id": 3,
+      "img": "image3.jpg",
+      "title": "Hunger Relief Campaign",
+      "category": "Food",
+      "bg_color": "#F5A623",
+      "title_color": "#FFFFFF",
+      "category_color": "#8F8F8F",
+      "price": 20,
+      "description": "Contribute to providing meals to those facing food insecurity."
+    },
+    {
+      "id": 4,
+      "img": "image4.jpg",
+      "title": "Environmental Conservation",
+      "category": "Environment",
+      "bg_color": "#5CB85C",
+      "title_color": "#FFFFFF",
+      "category_color": "#5CB85C",
+      "price": 40,
+      "description": "Support initiatives aimed at preserving and protecting the environment."
+    },
+    {
+      "id": 5,
+      "img": "image5.jpg",
+      "title": "Medical Aid for Vulnerable Communities",
+      "category": "Health",
+      "bg_color": "#FF6347",
+      "title_color": "#FFFFFF",
+      "category_color": "#FF6347",
+      "price": 35,
+      "description": "Provide medical assistance to communities lacking access to healthcare."
+    },
+    {
+      "id": 6,
+      "img": "image6.jpg",
+      "title": "Empowerment Through Skills Training",
+      "category": "Education",
+      "bg_color": "#4F86F7",
+      "title_color": "#FFFFFF",
+      "category_color": "#4F86F7",
+      "price": 28,
+      "description": "Support vocational training programs for skill development and empowerment."
+    },
+    {
+      "id": 7,
+      "img": "image7.jpg",
+      "title": "Disaster Relief Fund",
+      "category": "Humanitarian",
+      "bg_color": "#FF4500",
+      "title_color": "#FFFFFF",
+      "category_color": "#FFD700",
+      "price": 50,
+      "description": "Assist communities affected by natural disasters with immediate relief efforts."
+    },
+    {
+      "id": 8,
+      "img": "image8.jpg",
+      "title": "Equality and Inclusion Advocacy",
+      "category": "Social Justice",
+      "bg_color": "#8B4513",
+      "title_color": "#FFFFFF",
+      "category_color": "#9370DB",
+      "price": 22,
+      "description": "Support initiatives promoting equality and inclusion in society."
+    },
+    {
+      "id": 9,
+      "img": "image9.jpg",
+      "title": "Animal Welfare Campaign",
+      "category": "Environment",
+      "bg_color": "#00CED1",
+      "title_color": "#FFFFFF",
+      "category_color": "#32CD32",
+      "price": 18,
+      "description": "Contribute to the well-being and protection of animals."
+    },
+    {
+      "id": 10,
+      "img": "image10.jpg",
+      "title": "Youth Empowerment Program",
+      "category": "Social Justice",
+      "bg_color": "#87CEFA",
+      "title_color": "#333333",
+      "category_color": "#FFD700",
+      "price": 32,
+      "description": "Empower young people with opportunities for personal and professional growth."
+    },
+    {
+      "id": 11,
+      "img": "image11.jpg",
+      "title": "Refugee Support Initiative",
+      "category": "Humanitarian",
+      "bg_color": "#DC143C",
+      "title_color": "#FFFFFF",
+      "category_color": "#20B2AA",
+      "price": 45,
+      "description": "Provide assistance and resources to refugees seeking a better life."
+    },
+    {
+      "id": 12,
+      "img": "image12.jpg",
+      "title": "Art for Healing Project",
+      "category": "Health",
+      "bg_color": "#DA70D6",
+      "title_color": "#FFFFFF",
+      "category_color": "#87CEFA",
+      "price": 26,
+      "description": "Support art therapy programs for mental health and well-being."
+    }
+  ]
+  
